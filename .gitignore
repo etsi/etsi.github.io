@@ -1,0 +1,7 @@
+_drafts/
+.DS_Store
+_site/
+.sass-cache/
+
+*.swp
+feed.xml
